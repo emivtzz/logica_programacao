@@ -22,4 +22,23 @@ while (chute != numeroSecreto) {
         }
         tentativas++ //tentativas = tentativas + 1
     }
+} 
+
+/* 1. Crie um contador que comece em 1 e vá até 10 usando um loop while. Mostre cada número.
+let contador = 0;
+
+alert('Clique para começar o contador!');
+
+while(contador < 10){
+    contador++;
+    alert('Contador está em: ' + contador);
 }
+
+// Crie um programa de contagem regressiva. Peça um número e conte deste número até 0, 
+// usando um loop while no console do navegador.
+let contador = prompt('Digite um número:');
+
+while (contador != 0){
+    contador--;
+    console.log(contador);
+}*/
